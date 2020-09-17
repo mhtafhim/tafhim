@@ -1,0 +1,46 @@
+@media screen and (max-width: 766px) {
+
+    body {
+        background-position: 80%;
+        background-size: cover;
+    }
+
+    .left-side {
+        margin-left: 30%;
+    }
+
+    .name {
+        font-size: 5vw;
+    }
+
+    .title {
+        font-size: 3vw;
+    }
+
+    .about {
+        font-size: 2.5vw;
+    }
+
+    .mail {
+        font-size: 2.3vw;
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+    .social-list {
+        margin-top: 20px !important;
+    }
+
+    .fab {
+        font-size: 2vh;
+    }
+
+    .about {
+        margin: 0;
+    }
+
+    .social-area {
+        padding-right: 50px;
+    }
+
+  }
