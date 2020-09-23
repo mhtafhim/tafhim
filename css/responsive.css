@@ -1,3 +1,9 @@
+@media screen and (min-width: 1367px) {
+    .name {
+        font-size: 2.5vw;
+    }
+}
+
 @media screen and (max-width: 766px) {
 
     body {
@@ -22,7 +28,7 @@
     }
 
     .mail {
-        font-size: 2.3vw;
+        font-size: 2.8vw;
         margin-top: 20px;
         display: inline-block;
     }
@@ -44,3 +50,4 @@
     }
 
   }
+
